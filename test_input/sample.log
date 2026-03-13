@@ -1,0 +1,6 @@
+2024-03-15 10:00:00 INFO Application started
+2024-03-15 10:00:01 DEBUG Connecting to database
+2024-03-15 10:00:02 ERROR Connection failed: timeout
+2024-03-15 10:00:03 INFO Retrying connection
+2024-03-15 10:00:04 ERROR Connection failed: authentication
+2024-03-15 10:00:05 INFO Application stopped
